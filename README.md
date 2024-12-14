@@ -8,7 +8,8 @@ Hi everyone! My name is Shay. This is my collection of Python Google Colab noteb
 4. Loops
 5. Advanced String Functions
 6. Lists
-7. Sets
-8. Dictionaries
+7. Tuples
+8. Sets
+9. Dictionaries
 
 There is more being added into this repository almost every single day. Thanks for stopping by!
