@@ -1,6 +1,6 @@
 # Python-Notebook-from-NeetCode
 
-Hi everyone! My name is Shay. This is my collection of Python Google Colab notebooks based on NeetCode lessons and problems that I've taught my students. Each notebook includes small notes and explanations. I cover the following topics:
+This is my collection of Python Google Colab notebooks based on NeetCode (not Leetcode) lessons and problems that I've taught my students. Each notebook includes small notes and explanations. I cover the following topics:
 
 1. Mathematics/Built-in Operations
 2. Functions
@@ -12,4 +12,4 @@ Hi everyone! My name is Shay. This is my collection of Python Google Colab noteb
 8. Sets
 9. Dictionaries
 
-There is more being added into this repository almost every single day. Thanks for stopping by!
+You might find some files are long or short - it just depends if I was in person or not. There is more being added into this repository almost every single day.
