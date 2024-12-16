@@ -78,7 +78,7 @@ _P.S. If you are 100% new to coding, I highly recommend using Google Colab. It h
 [Control Flow](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson47_controlflow.ipynb)
 
 ### Advanced String Functions
-[The Length Function (len())](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson48_lengthfunc.ipynb)
+[The Length Function (_len()_)](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson48_lengthfunc.ipynb)
 
 [String Indexing](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson49_stringindex.ipynb)
 
@@ -107,6 +107,8 @@ _P.S. If you are 100% new to coding, I highly recommend using Google Colab. It h
 [Looping through a List](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson60_listlooping.ipynb)
 
 [List Functions](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson61_listfunctions.ipynb)
+
+[How to Add Elements into a List/The Append Function](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson62_appendlist.ipynb)
 
 ### Tuples
 
