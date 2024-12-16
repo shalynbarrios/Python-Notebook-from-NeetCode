@@ -1,6 +1,7 @@
-# Python-Notebook-from-NeetCode
+# Introduction to Python [Full 82 Lessons]
+## Overview
 
-This is my collection of Python Google Colab notebooks based on NeetCode (not Leetcode) lessons and problems that I've taught my students. Each notebook includes small notes and explanations. I cover the following topics:
+This is my collection of Python Google Colab notebooks based on NeetCode (not Leetcode) lessons and problems that I've taught my students. Each notebook includes detailed notes and explanations. I cover the following topics:
 
 1. Mathematics/Built-in Operations
 2. Functions
@@ -11,5 +12,108 @@ This is my collection of Python Google Colab notebooks based on NeetCode (not Le
 7. Tuples
 8. Sets
 9. Dictionaries
+10. Input
+11. Try/Except
 
-You might find some files are long or short - it just depends if I was in person or not. There is more being added into this repository almost every single day.
+There are 82 lessons in total. This may seem like a lot — but each lesson is broken down into very simple and digestible parts to ensure clarity and comprehension. The length of the files varies depending on whether I taught the lessons in-person or over Zoom.
+
+Although the content is approximately six months old, it remains highly relevant. These notebooks were intentionally published now to ensure my students couldn’t use them to cheat (lol) at the time.
+
+I am continually updating this repository, so check back for new additions.
+
+_P.S. If you are 100% new to coding, I highly recommend using Google Colab. It has a very simple interface to get you started._
+
+## Lessons
+
+### Math
+[Shorthand Math](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson22_shorthand.ipynb)
+
+[Boolean Algebra](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson23_booleanalg.ipynb)
+
+### Functions
+[Introduction to Functions](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson24_intro2functions.ipynb)
+
+[Parameters and Arguments](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson25_26_parameters.ipynb)
+
+[Return Statement](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson27_return.ipynb)
+
+[Type Hints in Functions](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson28_typehints.ipynb)
+
+[Global VS Local Scope](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson30_globalVSlocal_scope.ipynb)
+
+[Creating Default Arguments in Functions](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson31_defaultarguments.ipynb)
+
+### Conditional Statements
+[Comparison Operators](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson32_comparisonoperators.ipynb)
+
+[Introduction to If Statements](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson33_ifstatements.ipynb)
+
+[If Statement Scope](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson34_ifstatement_scope.ipynb)
+
+[If Else Statements](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson35_ifelse.ipynb)
+
+[Elif Statements](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson36_elif.ipynb)
+
+[Logic Conditions](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson37_logicconditions.ipynb)
+
+[What is Truthy Falsy?](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson38_truthy_falsy.ipynb)
+
+### Loops
+[Introduction to While Loops](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson39_whileloops.ipynb)
+
+[Counting using While Loops](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson40_whileloops_counting.ipynb)
+
+[While Loop Multiples](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson41_whileloop_multiples.ipynb)
+
+[Introduction to For Loops](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson42_forloops.ipynb)
+
+[How to Change the Start Number in For Loops](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson43_startforloops.ipynb)
+
+[How to Change the Incrementation of For Loops](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson44_stepsforloops.ipynb)
+
+[For Loops in Reverse](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson45_forloops_reverse.ipynb)
+
+[Nested Loops and their Applications](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson46_nestedloops.ipynb)
+
+[Control Flow](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson47_controlflow.ipynb)
+
+### Advanced String Functions
+[The Length Function (len())](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson48_lengthfunc.ipynb)
+
+[String Indexing](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson49_stringindex.ipynb)
+
+[Looping through a String](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson50_stringlooping.ipynb)
+
+[String Looping Shorthand](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson51_stringlooping_shorthand.ipynb)
+
+[String Concatenation](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson52_strconcatenation.ipynb)
+
+[String Slicing _(part A)_](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson53_stringslicing.ipynb)
+
+[String Slicing _(part B)_](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson54_stringslicing_2.ipynb)
+
+[Reversing a String](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson55_reversestrings.ipynb)
+
+[Strings are Immutable](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson56_stringimmutable.ipynb)
+
+[String Formatting](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson57_stringformatting.ipynb)
+
+### Lists
+
+[Introduction to Lists](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson58_intro2lists.ipynb)
+
+[List Operations](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson59_listoperations.ipynb)
+
+[Looping through a List](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson60_listlooping.ipynb)
+
+[List Functions](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson61_listfunctions.ipynb)
+
+### Tuples
+
+### Sets
+
+### Dictionaries
+
+### Input
+
+### Try/Except
