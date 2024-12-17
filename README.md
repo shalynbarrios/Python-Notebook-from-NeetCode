@@ -120,6 +120,8 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 
 ### Tuples
 
+[Tuples](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson66_tuples.ipynb)
+
 ### Sets
 
 ### Dictionaries
