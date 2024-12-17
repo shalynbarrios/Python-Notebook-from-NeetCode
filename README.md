@@ -116,6 +116,8 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 
 [The Index Function](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson64_listfindipynb.ipynb)
 
+[Slicing Lists](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson65_listslicing.ipynb)
+
 ### Tuples
 
 ### Sets
