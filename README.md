@@ -22,6 +22,7 @@ Although the content is approximately six months old, it remains highly relevant
 I am continually updating this repository, so check back for new additions.
 
 _P.S. If you are 100% new to coding, I highly recommend using Google Colab. It has a very simple interface to get you started._
+
 _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course on Youtube, as these lessons are directly inspiried from the series._
 
 ## Lessons
@@ -112,6 +113,8 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 [How to Add Elements into a List/The Append Function](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson62_appendlist.ipynb)
 
 [How to Remove Elements from a List/The Pop Function](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson63_poplist.ipynb)
+
+[The Index Function](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson64_listfindipynb.ipynb)
 
 ### Tuples
 
