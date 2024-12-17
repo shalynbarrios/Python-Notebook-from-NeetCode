@@ -17,11 +17,12 @@ This is my collection of Python Google Colab notebooks based on NeetCode (not Le
 
 There are 82 lessons in total. This may seem like a lot — but each lesson is broken down into very simple and digestible parts to ensure clarity and comprehension. The length of the files varies depending on whether I taught the lessons in-person or over Zoom.
 
-Although the content is approximately six months old, it remains highly relevant. These notebooks were intentionally published now to ensure my students couldn’t use them to cheat (lol) at the time.
+Although the content is approximately six months old, it remains highly relevant. These notebooks were intentionally not published until now to ensure my students couldn’t use them to cheat (lol) at the time.
 
 I am continually updating this repository, so check back for new additions.
 
 _P.S. If you are 100% new to coding, I highly recommend using Google Colab. It has a very simple interface to get you started._
+_P.P.S. A great resource for these notebooks is the Neetcode Python Full Course on Youtube, as these lessons are directly inspiried from the series._
 
 ## Lessons
 
@@ -109,6 +110,8 @@ _P.S. If you are 100% new to coding, I highly recommend using Google Colab. It h
 [List Functions](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson61_listfunctions.ipynb)
 
 [How to Add Elements into a List/The Append Function](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson62_appendlist.ipynb)
+
+[How to Remove Elements from a List/The Pop Function](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson63_poplist.ipynb)
 
 ### Tuples
 
