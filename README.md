@@ -9,11 +9,10 @@ This is my collection of Python Google Colab notebooks based on NeetCode (not Le
 4. Loops
 5. Advanced String Functions
 6. Lists
-7. Tuples
-8. Sets
-9. Dictionaries
-10. Input
-11. Try/Except
+7. Tuples and Sets
+8. Dictionaries
+9. Input
+10. Try/Except
 
 There are 82 lessons in total. This may seem like a lot — but each lesson is broken down into very simple and digestible parts to ensure clarity and comprehension. The length of the files varies depending on whether I taught the lessons in-person or over Zoom.
 
@@ -118,11 +117,11 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 
 [Slicing Lists](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson65_listslicing.ipynb)
 
-### Tuples
+### Tuples and Sets
 
 [Tuples](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson66_tuples.ipynb)
 
-### Sets
+[Sets](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson67_intro2sets.ipynb)
 
 ### Dictionaries
 
