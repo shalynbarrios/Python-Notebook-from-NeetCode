@@ -129,7 +129,9 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 
 [Introduction to Dictionaries](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson70_introtodictionaries.ipynb)
 
-[What Can We Do With Dictionaries?](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson71_dictoperations.ipynb)
+[What Else Can We Do With Dictionaries?](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson71_dictoperations.ipynb)
+
+[Looping Through a Dictionary](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson72_dictlooping.ipynb)
 
 ### Input
 
