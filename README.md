@@ -121,9 +121,15 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 
 [Tuples](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson66_tuples.ipynb)
 
-[Sets](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson67_intro2sets.ipynb)
+[Introduction to Sets](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson67_intro2sets.ipynb)
+
+[Set Operations](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson68_setoperations.ipynb)
 
 ### Dictionaries
+
+[Introduction to Dictionaries](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson70_introtodictionaries.ipynb)
+
+[What Can We Do With Dictionaries?](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson71_dictoperations.ipynb)
 
 ### Input
 
