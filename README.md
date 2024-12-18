@@ -26,7 +26,7 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 
 ## Lessons
 
-### Math
+### Mathematics
 [Shorthand Math](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson22_shorthand.ipynb)
 
 [Boolean Algebra](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson23_booleanalg.ipynb)
@@ -132,6 +132,8 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 [What Else Can We Do With Dictionaries?](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson71_dictoperations.ipynb)
 
 [Looping Through a Dictionary](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson72_dictlooping.ipynb)
+
+[Additional Practice With Dictionaries (Thus Far)](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson73_dictpractice.ipynb)
 
 ### Input
 
