@@ -141,4 +141,6 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 
 ### Input
 
+[Reading Input](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson76_readinginput.ipynb)
+
 ### Try/Except
