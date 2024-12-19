@@ -135,6 +135,10 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 
 [Additional Practice With Dictionaries (Thus Far)](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson73_dictpractice.ipynb)
 
+[Removing Items](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson74_dictremove.ipynb)
+
+[The Values Function](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson75_dictvalues.ipynb)
+
 ### Input
 
 ### Try/Except
