@@ -150,3 +150,9 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 [Input Practice](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson79_readinginputpractice.ipynb)
 
 ### Try/Except
+
+[Introduction to Try and Except Blocks and the Concept of Order Flow](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson80_tryexcept.ipynb)
+
+[Error Catching](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson81_errorcatching.ipynb)
+
+[Multiple Except Blocks and Their Optional Parameter](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson82_multipleexceptblocks.ipynb)
