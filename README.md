@@ -143,4 +143,10 @@ _P.P.S. A great resource for these notebooks is the Neetcode Python Full Course 
 
 [Reading Input](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson76_readinginput.ipynb)
 
+[Type Conversion with Input](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson77_typeconversion.ipynb)
+
+[Parsing the Input](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson78_parseinput.ipynb)
+
+[Input Practice](https://github.com/shalynbarrios/Python-Notebook-from-NeetCode/blob/main/lesson79_readinginputpractice.ipynb)
+
 ### Try/Except
